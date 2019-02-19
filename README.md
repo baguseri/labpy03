@@ -20,7 +20,7 @@ penjelasanya:
 
 ![alt text](hasil1.png)
 
->latihan2
+>latihan2 : Bilangan Max
 
 ![alt text](2.png)
 
@@ -64,7 +64,7 @@ Penjelasannya:
 
 -terakhir akan menampilkan total laba
 
->hasil program 1
+>hasil program 1 : Menghitung laba
 
 ![alt text](hasil3.png)
 
